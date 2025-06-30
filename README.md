@@ -1,7 +1,6 @@
 # Student Management System
 
-A simple Java console application to manage student information.  
-This project was developed for practice purposes to improve my skills in Java, object-oriented programming, and modular code structure.
+A simple Java console application to manage student information.andThis project was developed for practice purposes to improve my skills in Java, object-oriented programming, modular code structure.
 
 ## 📋 Features
 
@@ -20,16 +19,16 @@ This project was developed for practice purposes to improve my skills in Java, o
 - (Optional) IDE: Eclipse / IntelliJ IDEA
 
 ## 📁 Project Structure
-
 StudentManager/
 ├── src/
-│ ├── Main.java
-│ ├── Student.java
-│ ├── User.java
-│ ├── Utils.java
-│ └── ...
+│   ├── Main.java
+│   ├── Student.java
+│   ├── User.java
+│   ├── Utils.java
+│   └── ...
 ├── README.md
 └── .gitignore
+
 
 ## 🚀 Getting Started
 
