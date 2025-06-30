@@ -19,6 +19,7 @@ A simple Java console application to manage student information.andThis project 
 - (Optional) IDE: Eclipse / IntelliJ IDEA
 
 ## 📁 Project Structure
+```
 StudentManager/
 ├── src/
 │   ├── Main.java
@@ -28,7 +29,7 @@ StudentManager/
 │   └── ...
 ├── README.md
 └── .gitignore
-
+```
 
 ## 🚀 Getting Started
 
