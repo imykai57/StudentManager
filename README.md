@@ -21,3 +21,21 @@ This project was developed for practice purposes to improve my skills in Java, o
 
 ## 📁 Project Structure
 
+StudentManager/
+├── src/
+│ ├── Main.java
+│ ├── Student.java
+│ ├── User.java
+│ ├── Utils.java
+│ └── ...
+├── README.md
+└── .gitignore
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/StudentManager.git
+2. Open the project in your favorite IDE (e.g., IntelliJ, Eclipse)
+
+3.Run Main.java
