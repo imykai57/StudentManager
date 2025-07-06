@@ -38,4 +38,4 @@ StudentManager/
    git clone https://github.com/yourusername/StudentManager.git
 2. Open the project in your favorite IDE (e.g., IntelliJ, Eclipse)
 
-3.Run Main.java
+3.Run StudentSystem_update.java
